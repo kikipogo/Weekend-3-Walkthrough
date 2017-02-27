@@ -5,44 +5,44 @@ Server Side Calculator
 -----------------------
 Spin up JEN stack app:
 ----------------------
-- [x]node/express server
+- [x] node/express server
 
-- [x]serving html file ('/' get url)
+- [x] serving html file ('/' get url)
 
-- [x]w/ sourced .js file
+- [x] w/ sourced .js file
 
-- [x]test jQuery is working
+- [x] test jQuery is working
 
 - [x] body-parser for POST
 
-- [x]POST route for '/math' test
+- [x] POST route for '/math' test
 
 Client:
 ----------
-- [x]inputs for two numbers
+- [x] inputs for two numbers
 
-- [x]buttons for mathematical operator
+- [x] buttons for mathematical operator
 
-- [x]'calculate' button
+- [x] 'calculate' button
 
-- [x]package input
+- [x] package input
 
-- [x]send to Server
+- [x] send to Server
 
 Server:
 -------
-- [x]receive object
+- [x] receive object
 
-- [x]determine the operation to do
+- [x] determine the operation to do
 
-- [x]do math
+- [x] do math
 
-- [x]return answer
+- [x] return answer
 
 Client:
 -------
-- [x]receive answer
+- [x] receive answer
 
-- [x]display on DOM
+- [x] display on DOM
 
-- [x]clear button
+- [x] clear button
