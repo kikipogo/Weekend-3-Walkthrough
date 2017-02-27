@@ -1,0 +1,24 @@
+{
+  "name": "weekend-3-walkthrough",
+  "version": "1.0.0",
+  "description": "Phi Weekend 3 Live Solve ========================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikipogo/Weekend-3-Walkthrough.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kikipogo/Weekend-3-Walkthrough/issues"
+  },
+  "homepage": "https://github.com/kikipogo/Weekend-3-Walkthrough#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
